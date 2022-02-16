@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yash Patil
-- 👀 I’m interested to explore and work in Data Science Domain
+- 👀 I’m interested in exploring and working in Data Science Domain
 - 🌱 I’m currently learning Tableau
 - 📫 How to reach me yashvpatil1996@gmail.com
 
