@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Patil !</h1>
-<h3 align="center">A Data Science Enthusiast</h3>
+<h3 align="center">A Highly Passionate, Solution Oriented Professional</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash21091996&label=Profile%20views&color=0e75b6&style=flat" alt="yash21091996" /> </p>
 
